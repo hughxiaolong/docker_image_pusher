@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #新增
 1panel/maxkb:latest
+1panel/maxkb:v1.2.0
