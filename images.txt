@@ -6,4 +6,5 @@ xhofe/alist:latest
 #新增
 1panel/maxkb:v1.2.0
 1panel/maxkb:v1.1.3
-dyrnq/open-webui:latest-ollama
+qiruizheng/open-webui
+dyrnq/open-webui:main-ollama
