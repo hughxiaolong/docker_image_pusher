@@ -4,6 +4,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #新增
-1panel/maxkb:latest
+1panel/maxkb:v1.2.0
 1panel/maxkb:v1.1.3
 dyrnq/open-webui:latest-ollama
