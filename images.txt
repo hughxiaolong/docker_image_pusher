@@ -7,3 +7,4 @@ xhofe/alist:latest
 1panel/maxkb:v1.2.0
 1panel/maxkb:v1.1.3
 piphipi/open-webui:main
+diouxx/glpi
