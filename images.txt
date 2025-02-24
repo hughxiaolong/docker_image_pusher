@@ -9,3 +9,4 @@ xhofe/alist:latest
 piphipi/open-webui:main
 diouxx/glpi
 mariadb:10.7
+infiniflow/ragflow:v0.16.0
