@@ -16,3 +16,4 @@ infiniflow/ragflow:v0.15.0
 piphipi/open-webui:main
 diouxx/glpi
 mariadb:10.7
+operepo/ope-codecombat
