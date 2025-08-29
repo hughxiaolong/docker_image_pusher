@@ -17,3 +17,4 @@ piphipi/open-webui:main
 diouxx/glpi
 mariadb:10.7
 operepo/ope-codecombat
+rustdesk/rustdesk-server
